@@ -23,5 +23,5 @@
       echo '</br>'.$last_id;
       echo '</br>'.substr($last_id, 1);
       echo '</br>'.$ret[0];
-	
+		echo 'test';
 ?>
